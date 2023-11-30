@@ -1,6 +1,8 @@
-# untitled2
+# implementation flutter ui
 
-A new Flutter project.
+source of this ui:
+https://dribbble.com/shots/15039580-BLOG-CLUB-Blog-UI-kit-Freebie (figma design)
+from Uğur Yabar
 
 ## Getting Started
 
